@@ -1,0 +1,9 @@
+# Copy this file to local_config.yaml and fill in your hospital's details.
+# local_config.yaml is gitignored — your info stays local.
+
+# Hospital e-portfolio system
+base_url: "https://education.your-hospital.org/eportfolio/"
+cookie_domain: "education.your-hospital.org"
+
+# Used in README examples and skill references (optional)
+hospital_name: "Your Hospital"

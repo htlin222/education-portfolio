@@ -109,7 +109,7 @@ uv run python -m evalbot finalize --sfid=88492
 
 ## How to Build Your Own Eval-Fill System
 
-This project targets one hospital's e-portfolio, but the **pattern is universal**. If your institution uses any web-based evaluation system (FlySheet, MedHub, New Innovations, or a custom webapp), you can clone this repo and adapt it.
+This project targets one hospital's e-portfolio, but the **pattern is universal**. If your institution uses any web-based evaluation system, you can clone this repo and adapt it.
 
 ### The Pattern
 

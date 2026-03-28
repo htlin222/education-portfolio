@@ -1,5 +1,12 @@
 # EvalBot — Automated Teaching Evaluation Form Filler
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![uv](https://img.shields.io/badge/uv-package%20manager-blueviolet)](https://docs.astral.sh/uv/)
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-orange)](https://claude.com/claude-code)
+[![Agent-Driven](https://img.shields.io/badge/architecture-agent--driven-brightgreen)](https://github.com/htlin222/education-portfolio)
+[![zh-TW](https://img.shields.io/badge/lang-繁體中文-red)](README.zh-TW.md)
+
 > *"The purpose of evaluation is to improve, not to prove."* — Daniel Stufflebeam
 
 ## Why This Exists

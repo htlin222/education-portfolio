@@ -1,5 +1,12 @@
 # EvalBot — 教學評估表單自動填寫工具
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![uv](https://img.shields.io/badge/uv-package%20manager-blueviolet)](https://docs.astral.sh/uv/)
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-orange)](https://claude.com/claude-code)
+[![Agent-Driven](https://img.shields.io/badge/architecture-agent--driven-brightgreen)](https://github.com/htlin222/education-portfolio)
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
+
 > *「評估的目的是改進，而非證明。」* — Daniel Stufflebeam
 
 ## 為什麼要做這個工具
